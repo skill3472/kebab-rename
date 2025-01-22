@@ -6,11 +6,11 @@ Easily change file names to kebab-case with a click of a button!
 
 Using the right mouse button, click on a file that you want to rename...
 
-![right click on file](images/1.png)
+![right click on file](https://github.com/skill3472/kebab-rename/blob/master/images/1.png?raw=true)
 
 ...and after selecting 'Rename to Kebab Case' the file will be renamed! Simple, right?
 
-![renamed file](images/2.png)
+![renamed file](https://github.com/skill3472/kebab-rename/blob/master/images/2.png?raw=true)
 
 ## Known Issues
 
