@@ -1,4 +1,6 @@
 # kebab-rename
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/MaksymilianTym.kebab-rename)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/MaksymilianTym.kebab-rename)
 
 Easily change file names to kebab-case with a click of a button!
 
