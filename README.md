@@ -4,6 +4,10 @@
 
 Easily change file names to kebab-case with a click of a button!
 
+## Download
+
+[You can download the extension here](https://marketplace.visualstudio.com/items?itemName=MaksymilianTym.kebab-rename)
+
 ## Features
 
 Using the right mouse button, click on a file that you want to rename...
